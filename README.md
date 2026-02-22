@@ -1,6 +1,6 @@
 # DSA-ASSIGNMENT-1
 Skip to content
-chandraprakashmishra18
+vanshvirajbisht
 LAB-DS
 Repository navigation
 Code
@@ -22,8 +22,7 @@ exp-5.py
 exp-6.py
 LAB-DS
 /VIVA ANSWER.md
-chandraprakashmishra18
-chandraprakashmishra18
+vanshvirajbisht
 viva
 4697af0
  · 
@@ -33,8 +32,6 @@ Preview
 
 Code
 
-Blame
-95 lines (95 loc) · 5.98 KB
 ---- EXPERIMENT 1 — Stack ADT : ---- Q1. What is an Abstract Data Type (ADT)? An Abstract Data Type (ADT) is a logical description of a data structure that defines the operations that can be performed and the behaviour of those operations, without specifying how they are implemented. It focuses on functionality rather than implementation. Example: Stack ADT defines push, pop, and peek operations.
 Q2. Why are push and pop operations O(1)? Push and pop operate only on the top element of the stack and they do not require traversal or shifting of elements . Hence, the number of steps required is constant and independent of stack size. Hence, time complexity = O(1).
 Q3. Give one real-world use of stack. A stack is used in function call management in programming languages . Each function call is stored in the call stack, and when the function finishes, it is removed in Last-In-First-Out order.
